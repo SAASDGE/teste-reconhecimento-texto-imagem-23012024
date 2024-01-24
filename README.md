@@ -1,14 +1,14 @@
 # Teste de Desenvolvimento (Extração de informações)
 
-Para garantir o eficiente gerenciamento dos créditos de energia provenientes de usinas de energia renovável, a extração precisa e automática de dados das notas fiscais de energia elétrica é fundamental. Além disso, possuir conhecimento aprofundado sobre faturas de energia elétrica é crucial para o sucesso na gestão desses recursos.
+Para garantir o eficiente gerenciamento dos créditos de energia provenientes de usinas de energia renovável, a extração precisa e automática de dados das notas fiscais de energia elétrica é fundamental. Além disso, possuir conhecimento sobre faturas de energia elétrica é crucial para o sucesso na gestão desses recursos.
 
-Logo, é proposto dois testes como parte da avaliação dos conhecimentos técnicos e teóricos dos candidatos. Essa avaliação tem o objetivo de medir a compreensão do participante no contexto da extração de dados de notas fiscais e no entendimento detalhado de faturas de energia elétrica.
+Logo, é proposto dois testes como parte da avaliação dos conhecimentos técnicos e teóricos dos candidatos. Essa avaliação tem o objetivo de medir a compreensão do participante no contexto da extração de dados de notas fiscais e no entendimento básico de faturas de energia elétrica.
 
 # Teste 1
 
 Em busca pela eficiência na leitura de faturas, a equipe de desenvolvimento propõe a criação de uma rotina que, a partir de faturas de energia elétrica em formato de PDF, seja capaz de extrair importantes informações.
 
-Nesta atividade, você deve editar o arquivo read.py e desenvolver uma rotina capaz de realizar a leitura de uma fatura no formato PDF e retornar um dataframe contendo as seguintes informações:
+Nesta atividade, você deve editar o arquivo read.py e desenvolver uma rotina capaz de realizar a leitura da fatura fatura_cpfl.pdf em formato de PDF e retornar um dataframe contendo as seguintes informações:
 
 - O número da instalação
 - Mês ao qual a fatura é referente
