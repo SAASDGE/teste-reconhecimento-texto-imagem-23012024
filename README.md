@@ -1,4 +1,4 @@
-# Teste de Desenvolvimento (Extração de informações)
+# Teste Técnico (Extração de informações em Faturas de Energia)
 
 Para garantir o eficiente gerenciamento dos créditos de energia provenientes de usinas de energia renovável, é fundamental a extração precisa e automática de dados das notas fiscais de energia elétrica. Além disso, possuir conhecimento sobre faturas de energia elétrica é importante para o sucesso na gestão desses recursos.
 
