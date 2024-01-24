@@ -30,7 +30,9 @@ As informações obtidas devem ser exibidas e estruturadas de acordo com a segui
 
 # Teste 2
 
-Algumas questões constituem parte integrante dos desafios cotidianos enfrentados pela empresa. Para abordar esses desafios de maneira eficaz, solicita-se que responda detalhadamente por meio de texto, alguns questionamentos. Em um arquivo PDF, envie suas respostas para o e-mail falecom@dg.energy.
+Contexto: Você recebeu a fatura "fatura_cemig.pdf" e deve desenvolver um script para extrair seus dados. Antes de iniciar a programação, é essencial compreender e interpretar as informações presentes nesta fatura.
+
+Atividade: Analise a fatura e redija um documento respondendo às perguntas abaixo. Ao finalizar, envie este documento em formato PDF para o e-mail falecom@dg.energy.
 
 - Dado a fatura da cemig disponível no repositório e as informações do descritivo, explique a diferença entre a fatura e uma fatura normal de energia elétrica.
 - Elabore uma explicação detalhada sobre o descritivo presente na fatura, com foco nos valores faturados.
