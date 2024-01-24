@@ -28,8 +28,6 @@ As informações obtidas devem ser exibidas e estruturadas de acordo com a segui
 |         Valor da distribuidora       |    219,14   |
 |    Somatório de energia injetada     |     1950    |
 
-Para realizar os testes e conferir os valores você deve utilizar o arquivo fatura_cpfl.pdf, disponibilizado no repositório.
-
 # Teste 2
 
 Algumas questões constituem parte integrante dos desafios cotidianos enfrentados pela empresa. Para abordar esses desafios de maneira eficaz, solicita-se que responda detalhadamente por meio de texto, alguns questionamentos. Em um arquivo PDF, envie suas respostas para o e-mail falecom@dg.energy.
