@@ -34,7 +34,7 @@ Contexto: Você recebeu a fatura "fatura_cemig.pdf" e deve desenvolver um script
 
 Atividade: Analise a fatura e redija um documento respondendo os pontos abaixo. Ao finalizar, envie este documento em formato PDF para o e-mail falecom@dg.energy.
 
- -Identifique as principais diferenças entre a fatura "fatura_cemig.pdf" e uma fatura convencional de energia elétrica "fatura_cemig_convencional.pdf".
+ - Identifique as principais diferenças entre a fatura "fatura_cemig.pdf" e uma fatura convencional de energia elétrica "fatura_cemig_convencional.pdf".
  - Descreva e explique os termos e valores apresentados na seção "Valores Faturados" da fatura "fatura_cemig.pdf".
  - Considerando que a instalação da "fatura_cemig.pdf" participa do Sistema de Compensação de Energia Elétrica, identifique e explique qual informação na seção "Informações Gerais" da fatura é considerada a mais importante.
  - Identifique o consumo da instalação referente ao mês de julho de 2023.
