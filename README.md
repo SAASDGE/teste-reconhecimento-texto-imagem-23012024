@@ -32,7 +32,7 @@ As informações obtidas devem ser exibidas e estruturadas de acordo com a segui
 
 Contexto: Você recebeu a fatura "fatura_cemig.pdf" e deve desenvolver um script para extrair seus dados. Antes de iniciar a programação, é essencial compreender e interpretar as informações presentes nesta fatura.
 
-Atividade: Analise a fatura e redija um documento respondendo os pontos abaixo. Ao finalizar, envie este documento em formato PDF para o e-mail falecom@dg.energy.
+Atividade: Analise a fatura e redija um documento respondendo os pontos abaixo. Ao finalizar, envie este documento em formato PDF para o e-mail falecom@dg.energy e lucas@dg.energy.
 
  - Identifique as principais diferenças entre a fatura "fatura_cemig.pdf" e uma fatura convencional de energia elétrica "fatura_cemig_convencional.pdf".
  - Descreva e explique os termos e valores apresentados na seção "Valores Faturados" da fatura "fatura_cemig.pdf".
